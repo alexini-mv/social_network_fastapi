@@ -1,0 +1,41 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "Primer tweet de la historia en FastAPI",
+        "created_at": "2022-03-30 03:01:37.357771",
+        "updated_at": "2022-03-30 09:01:42.253000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "alex@example.com",
+            "first_name": "Alejandro",
+            "last_name": "Mart",
+            "birth_date": "2022-03-30"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+        "content": "Hola este es mi primer tweet",
+        "created_at": "2022-03-30 03:01:37.357771",
+        "updated_at": "2022-03-30 09:01:42.253000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+            "email": "miguel@example.com",
+            "first_name": "Miguel",
+            "last_name": "Val",
+            "birth_date": "2022-03-30"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+        "content": "Me voy de tweet",
+        "created_at": "2022-03-30 03:01:37.357771",
+        "updated_at": "2022-03-30 09:01:42.253000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+            "email": "rocio@example.com",
+            "first_name": "Rocio",
+            "last_name": "Flores",
+            "birth_date": "2022-03-30"
+        }
+    }
+]
